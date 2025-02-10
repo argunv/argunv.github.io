@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm argunv</h1>
 <h3 align="center">Sirius University College student. <a href="https://v-pro.tilda.ws/">(website)</a></h3>
-<h3 align="center">GitHub: <a href="https://argunv.me/">@argunv</a></h3>
+<h3 align="center">GitHub: <a href="https://github.com/argunv">@argunv</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=argunv&label=Profile%20views&color=0e75b6&style=flat" alt="argunv" /> </p>
 
