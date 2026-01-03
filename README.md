@@ -1,12 +1,4 @@
-<table align="center">
-<tr>
-<td align="center">
-
-🌍 **Language:** **EN** &nbsp;|&nbsp; [**RU**](https://github.com/argunv/argunv/blob/main/README.ru.md)
-
-</td>
-</tr>
-</table>
+🌍 **Language:** **EN** | [**RU**](https://github.com/argunv/argunv/blob/main/README.ru.md)
 
 <h1 align="center">Python Backend Engineer</h1>
 
